@@ -7,7 +7,8 @@ order: 4
 ## Contributions
 
 #### Northern Wu
-- todo
+- Implement a framework for basic fog.
+- Implement a light source detection algorithm.
 
 #### Jaxon Zeng
 - todo
