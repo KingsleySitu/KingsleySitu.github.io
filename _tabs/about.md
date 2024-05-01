@@ -15,11 +15,12 @@ order: 4
 - todo
 
 #### Mengjun Wen
-- todo
+- Implemented depth control and color filters.
+- Record the presentation video. 
 
 #### Kingsley Situ
-- Implemented all the effects of moon including adding the texture and make the moon customizable.
-- Constructed the presentation website.
+- Add the moon texture, make the moon customizable and implement color control.
+- Construct the presentation website.
 
 ***
 ## References
