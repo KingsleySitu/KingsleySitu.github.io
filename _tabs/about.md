@@ -7,16 +7,17 @@ order: 4
 ## Contributions
 
 #### Northern Wu
-- t
+- todo
 
 #### Jaxon Zeng
-- t
+- todo
 
 #### Mengjun Wen
-- t
+- todo
 
 #### Kingsley Situ
-- t
+- Implemented all the effects of moon including adding the texture and make the moon customizable.
+- Constructed the presentation website.
 
 ***
 ## References
