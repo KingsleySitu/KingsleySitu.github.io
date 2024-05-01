@@ -9,6 +9,7 @@ order: 4
 #### Northern Wu
 - Implement a framework for basic fog.
 - Implement a light source detection algorithm.
+- Adjust the style of the webpage.
 
 #### Jaxon Zeng
 - todo
