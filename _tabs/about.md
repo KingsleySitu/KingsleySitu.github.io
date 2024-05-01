@@ -3,6 +3,21 @@
 icon: fas fa-info-circle
 order: 4
 ---
+***
+## Contributions
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+#### Northern Wu
+- t
+
+#### Jaxon Zeng
+- t
+
+#### Mengjun Wen
+- t
+
+#### Kingsley Situ
+- t
+
+***
+## References
+[Genshin-Impact-ReShade](https://github.com/sefinek24/Genshin-Impact-ReShade)
