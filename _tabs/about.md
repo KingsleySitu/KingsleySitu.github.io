@@ -7,20 +7,22 @@ order: 4
 ## Contributions
 
 #### Northern Wu
-- Implement a framework for basic fog.
-- Implement a light source detection algorithm.
-- Adjust the style of the webpage.
+- Implemented the framework for basic fog.
+- Implemented the light source detection algorithm.
+- Adjusted the style of the webpage.
 
 #### Jaxon Zeng
-- todo
+- Implemented the light source glowing effect.
+- Adjusted the fog effect for daytime and nighttime.
+- Edited the final presentation video.
 
 #### Mengjun Wen
 - Implemented depth control and color filters.
-- Record the presentation video. 
+- Recorded the presentation video. 
 
 #### Kingsley Situ
-- Add the moon texture, make the moon customizable and implement color control.
-- Construct the presentation website.
+- Added the moon texture, made the moon customizable, and implemented color control.
+- Constructed the presentation website.
 
 ***
 ## References
