@@ -6,7 +6,7 @@ order: 4
 ***
 ## Contributions
 
-#### Northern Wu
+#### Nothern Wu
 - Implemented the framework for basic fog.
 - Implemented the light source detection algorithm.
 - Adjusted the style of the webpage.
