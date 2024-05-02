@@ -16,7 +16,7 @@ timezone: America/Los_Angeles
 
 title: Genshin FogMoon # the main title
 
-tagline: Team 25 # it will display as the sub-title
+tagline: CS 184 Final Project # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
